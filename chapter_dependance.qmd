@@ -1554,9 +1554,7 @@ $Bird\:Richness = 0.64WX + 0.53X - 0.65$
 
 Even though three commands are available for each type of SAR model, it is best to only use the mixed model function sacsarlm, as the other ones don't provide p-values, and this one provides more information than the others.
 
-![](Spatial%20autocorrelation_%20modelisation%5CSAR_function_summary.png)
-
-*(If the image doesn't load, it is available in the Spatial autocorrelation\_ modelisation doc)*
+![](SAR_function_summary.png)
 
 ### 3.2. - Non stationary process
 
